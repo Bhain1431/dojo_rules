@@ -6,3 +6,4 @@ My fav. path is JavaScript. Node , and Html. and CSS
 *JavaScript
 *Html
 *CSS
+*Killing history using git rebase
